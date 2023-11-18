@@ -7,5 +7,5 @@ Determine if the launch date affected sales growth by comparing the Sprint's gro
 Evaluate the effectiveness of the email marketing campaign in influencing purchases by comparing key performance indicators (KPIs) such as email opening and click rates against industry benchmarks.
 
 The approach involved extracting data for both Sprint and Sprint Limited from the given datasets, calculating cumulative 7-day sales for both, and then performing a comparative analysis. 
-Additionally, the project analyzed the email campaign data to calculate KPIs.Findings indicated a true relationship between the launch date and sales growth. 
+Additionally, the project analyzed the email campaign data to calculate KPIs. Findings indicated a true relationship between the launch date and sales growth. 
 However, while the email opening rate was slightly above industry standards, the click rate was significantly below.
